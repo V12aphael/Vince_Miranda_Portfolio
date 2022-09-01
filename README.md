@@ -1,5 +1,4 @@
-# Vince_Miranda_Portfolio
-Data Science Portfolio
+# Data_Science_Portfolio
 
 #Project 1 DATA SCIENCE PORTFOLIO 
 - SDFDSFSD
